@@ -153,3 +153,7 @@ C:\Users\HP\Documents\coding\my project\Project\obj\Debug\net8.0\refint\Project.
 C:\Users\HP\Documents\coding\my project\Project\obj\Debug\net8.0\Project.pdb
 C:\Users\HP\Documents\coding\my project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
 C:\Users\HP\Documents\coding\my project\Project\obj\Debug\net8.0\ref\Project.dll
+C:\Users\HP\Source\Repos\GELISFOOD\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\GELISFOOD\obj\Debug\net8.0\Project.dll
+C:\Users\HP\Source\Repos\GELISFOOD\obj\Debug\net8.0\refint\Project.dll
+C:\Users\HP\Source\Repos\GELISFOOD\obj\Debug\net8.0\Project.pdb

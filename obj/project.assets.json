@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\coding\\my project\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\GELISFOOD\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\HP\\Documents\\coding\\my project\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\GELISFOOD\\Project.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\coding\\my project\\Project\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\GELISFOOD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
