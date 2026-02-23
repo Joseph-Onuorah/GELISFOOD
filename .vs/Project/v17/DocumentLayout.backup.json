@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\wwwroot\\ts\\booking.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:wwwroot\\ts\\booking.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:35:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T14:29:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:29:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAB8AAABAMzMzMzMrwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T09:42:45.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T09:40:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\wwwroot\\ts\\Booking.ts",
+              "RelativeDocumentMoniker": "wwwroot\\ts\\Booking.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\wwwroot\\ts\\Booking.ts",
+              "RelativeToolTip": "wwwroot\\ts\\Booking.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-19T09:07:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Book.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml",
+              "RelativeToolTip": "Pages\\Book.cshtml",
+              "ViewState": "AgIAABcAAAAANDMzMzMbwLIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:22:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Book.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml.cs",
+              "RelativeToolTip": "Pages\\Book.cshtml.cs",
+              "ViewState": "AgIAAB0AAACUmZmZmZkzwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:20:08.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
