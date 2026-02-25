@@ -31,30 +31,18 @@ namespace Project.Pages
         {
         }
 
-        public IActionResult OnPost()
+        public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
-                return Page();
+            {
+                return new JsonResult(new { success = false, message = "Invalid data." });
+            }
 
             _context.Bookings.Add(Booking);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
-            TempData["Success"] = "Booking submitted successfully!";
-            return RedirectToPage();
+            return new JsonResult(new { success = true, message = "Booking submitted successfully!" });
         }
 
-
-        //public IActionResult OnPost()
-        //{
-        //    if (!ModelState.IsValid)
-        //        return Page();
-
-        //    // Example: Save to database here
-
-        //    Console.WriteLine($"New Booking: {Booking.Name}");
-
-        //    TempData["Success"] = "Booking submitted successfully!";
-        //    return RedirectToPage();
-        //}
     }
 }

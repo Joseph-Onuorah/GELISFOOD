@@ -312,3 +312,5 @@ C:\Users\HP\source\repos\GELISFOOD\obj\Debug\net8.0\Project.pdb
 C:\Users\HP\source\repos\GELISFOOD\obj\Debug\net8.0\Project.genruntimeconfig.cache
 C:\Users\HP\source\repos\GELISFOOD\obj\Debug\net8.0\ref\Project.dll
 C:\Users\HP\Source\Repos\GELISFOOD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\source\repos\GELISFOOD\bin\Debug\net8.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\HP\source\repos\GELISFOOD\bin\Debug\net8.0\Newtonsoft.Json.dll

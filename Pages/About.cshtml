@@ -49,7 +49,7 @@
                     <nav class="navbar navbar-expand-lg custom_nav-container ">
                         <a class="navbar-brand" href="index.html">
                             <span>
-                                Feane
+                                Gelis
                             </span>
                         </a>
 
@@ -60,16 +60,16 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav  mx-auto ">
                                 <li class="nav-item ">
-                                    <a class="nav-link" href="index.html">Home </a>
+                                    <a class="nav-link" href="/Index">Home </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="menu.html">Menu</a>
+                                    <a class="nav-link" href="/Menu">Menu</a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="about.html">About <span class="sr-only">(current)</span> </a>
+                                    <a class="nav-link" href="/About">About <span class="sr-only">(current)</span> </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="book.html">Book Table</a>
+                                    <a class="nav-link" href="/Book">Book Table</a>
                                 </li>
                             </ul>
                             <div class="user_option">
@@ -170,9 +170,8 @@
                                 are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
                                 the middle of text. All
                             </p>
-                            <a href="">
-                                Read More
-                            </a>
+                            <a href="#" id="readMoreBtn">Read More</a>
+                            <div id="aboutContent" style="display:none; margin-top:20px;"></div>
                         </div>
                     </div>
                 </div>
@@ -283,7 +282,65 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
     </script>
     <!-- End Google Map -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
 
+            const btn = document.getElementById("readMoreBtn");
+            const container = document.getElementById("aboutContent");
+
+            btn.addEventListener("click", function (e) {
+                e.preventDefault();
+
+                if (container.style.display === "none") {
+
+                    container.innerHTML = `
+                        <h2>Welcome to Gelis</h2>
+                        <p><strong>Gelis</strong> brings flavors to life. As a proudly growing food company, we specialize in producing rich, authentic African dishes alongside carefully crafted international meals. Every plate is inspired by tradition, perfected with passion, and prepared with the highest standards of quality.</p>
+
+                        <hr>
+
+                        <h3>Our Story</h3>
+                        <p>Gelis was founded with one simple goal — to serve food that feels like home while embracing tastes from around the world. From hearty local delicacies to globally loved recipes, we blend culture, creativity, and freshness in every bite.</p>
+
+                        <hr>
+
+                        <h3>What We Offer</h3>
+                        <ul>
+                            <li><strong>Authentic African Dishes</strong> – Fresh ingredients and traditional recipes.</li>
+                            <li><strong>International Cuisine</strong> – Globally inspired flavors.</li>
+                            <li><strong>Snacks & Small Chops</strong> – Perfect for events and quick treats.</li>
+                            <li><strong>Catering Services</strong> – Corporate, weddings, birthdays and more.</li>
+                        </ul>
+
+                        <hr>
+
+                        <h3>Why Choose Gelis?</h3>
+                        <ul>
+                            <li>Fresh, high-quality ingredients</li>
+                            <li>Hygienic and professional preparation</li>
+                            <li>Exceptional taste and presentation</li>
+                            <li>Reliable service and timely delivery</li>
+                            <li>Passion for customer satisfaction</li>
+                        </ul>
+
+                        <hr>
+
+                        <h3>Taste the Difference</h3>
+                        <p>At Gelis, food is more than a meal — it’s an experience.</p>
+                        <p><strong>Gelis – Serving Culture. Sharing Flavor. Creating Moments.</strong></p>
+                    `;
+
+                    container.style.display = "block";
+                    btn.textContent = "Read Less";
+
+                } else {
+                    container.style.display = "none";
+                    btn.textContent = "Read More";
+                }
+            });
+
+        });
+    </script>
 </body>
 
 </html>
