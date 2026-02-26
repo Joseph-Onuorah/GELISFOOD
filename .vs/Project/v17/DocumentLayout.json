@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\HP\\source\\repos\\GELISFOOD\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\shoping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\shoping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\shoping.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\shoping.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|c:\\users\\hp\\source\\repos\\gelisfood\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32CF8489-EA14-419D-B523-37323E659AF5}|Project.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\HP\\source\\repos\\GELISFOOD\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -51,50 +55,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-25T13:05:12.597Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shoping.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shoping.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml",
-              "RelativeToolTip": "Pages\\Shoping.cshtml",
-              "ViewState": "AgIAAMUDAAAAkJmZmZkRwMgDAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T08:41:17.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T08:41:10.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAKkBAAAANjMzMzMtwEUFAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T08:40:24.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -102,39 +64,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Book.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml.cs",
+              "RelativeToolTip": "Pages\\Book.cshtml.cs",
+              "ViewState": "AgIAAAgAAACAZmZmZmYswBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:44:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shoping.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shoping.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shoping.cshtml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:34:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shoping.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shoping.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Shoping.cshtml",
+              "RelativeToolTip": "Pages\\Shoping.cshtml",
+              "ViewState": "AgIAAE0FAAAAAAAAAAAiwFwFAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T08:41:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv00AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T08:40:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\About.cshtml",
               "RelativeDocumentMoniker": "Pages\\About.cshtml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\About.cshtml",
               "RelativeToolTip": "Pages\\About.cshtml",
-              "ViewState": "AgIAADAAAAAAamZmZmYkwDMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv0sAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-24T16:15:39.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml",
               "RelativeDocumentMoniker": "Pages\\Book.cshtml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Pages\\Book.cshtml",
               "RelativeToolTip": "Pages\\Book.cshtml",
-              "ViewState": "AgIAALIAAAAAMjMzMzMbwL0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAANDMzMzMrwEwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-18T23:22:54.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\GELISFOOD\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:35:58.1Z",
               "EditorCaption": ""

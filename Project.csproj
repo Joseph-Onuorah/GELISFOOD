@@ -166,4 +166,8 @@
     <PackageReference Include="TypeLite" Version="1.8.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

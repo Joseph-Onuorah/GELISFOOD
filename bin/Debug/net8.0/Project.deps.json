@@ -15,7 +15,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.21",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.21",
           "Microsoft.TypeScript.MSBuild": "5.9.3",
-          "Node.js": "5.3.0"
+          "Node.js": "5.3.0",
+          "TypeLite": "1.8.4"
         },
         "runtime": {
           "Project.dll": {}
@@ -1051,6 +1052,18 @@
             "fileVersion": "6.0.21.52210"
           }
         }
+      },
+      "TypeLite/1.8.4": {
+        "runtime": {
+          "lib/net4/TypeLite.Net4.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          },
+          "lib/net4/TypeLite.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          }
+        }
       }
     }
   },
@@ -1717,6 +1730,13 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "TypeLite/1.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OJT3FFuHIACV2gR1cR1HqYD4pbnT6PBku/Se+yCCNcTnRePVuurquUQDAufbqF8cR+7ggh7IHClC07P/sXRF+g==",
+      "path": "typelite/1.8.4",
+      "hashPath": "typelite.1.8.4.nupkg.sha512"
     }
   }
 }

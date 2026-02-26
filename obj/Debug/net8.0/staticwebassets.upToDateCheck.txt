@@ -1,6 +1,7 @@
 wwwroot\css\bootstrap.css
 wwwroot\css\font-awesome.min.css
 wwwroot\css\responsive.css
+wwwroot\css\Shoping.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\css\style.css.map
